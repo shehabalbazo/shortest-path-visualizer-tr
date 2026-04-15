@@ -9,7 +9,7 @@ The project demonstrates how classical graph algorithms work in real time with a
 ## ⚡ Live Demo
 
 🔗 **Try it here:**  
-https://shehabalbazo.github.io/shortest-path-visualizer/
+https://shehabalbazo.github.io/shortest-path-visualizer-tr/
 
 ---
 
